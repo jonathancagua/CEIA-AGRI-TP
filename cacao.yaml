@@ -1,5 +1,5 @@
-train: ../processed_dataset/train/images
-val: ../processed_dataset/val/images
+train: processed_dataset/train/images
+val: processed_dataset/val/images
 
 nc: 3  # Número de clases: Sana, Monilia, Fito
 names: ['Sana', 'Monilia', 'Fito']
